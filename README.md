@@ -3,7 +3,7 @@
 Admin UI Module
 ================
 
-Administration tools for the OpenMRS Reference Application.
+Administration tools for the AidakoMED Reference Application.
 
 It is written using the new [UI framework](https://wiki.openmrs.org/x/0wAJAg), some pages
 are written with the Groovy Server Page technology being backed up by controllers while other pages are written using
